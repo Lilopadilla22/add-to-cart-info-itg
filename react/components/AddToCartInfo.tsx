@@ -48,8 +48,8 @@ const AddToCartInfo = ({ blockClass }: { blockClass: string }) => {
       }
       <div className={container__total}>
         <h2 className={container__total__title}>Resumen de tu compra</h2>
-        <p>tenemos {items.length} items en tu compra</p>
-        <p>total: ${totalizers[0]?.value / 100}</p>
+        <p>Tienes {items.length} items en tu compra</p>
+        <p>Total a pagar: ${totalizers[0]?.value / 100}</p>
       </div>
       <ButtonGroup blockClass={"buttons__pay"} /> {/*acciones*/}
     </div>
