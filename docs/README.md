@@ -1,11 +1,12 @@
 ## Add to cart
 
-Add to cart info es un componente que le permitira ver al cliente por medio de un modal un resumen de su compra realizada. 
- ## vista del modal
+Add to cart info es un componente que le permitira ver al cliente por medio de un modal un resumen de los producto que vaya agregando a su carrito. 
+
+## Vista del componente
 
 ![add-to-cart-info](https://user-images.githubusercontent.com/97923792/209349803-ca5ab40c-f3ae-4e12-87f4-d83a0e6bba54.png)
 
-## CONFUGURACION 
+## CONFIGURACION 
 
 ### Primero - Configuración Básica 
 
